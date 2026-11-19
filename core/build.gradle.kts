@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.dicoding.tourismapp.core"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         minSdk = 24
